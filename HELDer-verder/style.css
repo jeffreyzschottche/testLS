@@ -1,0 +1,15 @@
+.form{
+    background-color: lightgrey;
+    padding: 1em;
+    width: 40%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+.errorOutput{
+    color: red;
+}
+.succesOutput{
+    color: green;
+}
